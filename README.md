@@ -7,7 +7,7 @@ Ark Industries will be a reference for automation in the history of technology.
 ## ATM using React
 
 This page shows how to use React to create a virtual ATM. Also, you can learn how to use React-bootstrap to stylish some of the HTML elements.  
-<p>Here you can see how it works: <a href="https://www.loom.com/share/be221b40f46e49adad6b4e8263bf8497?sid=25234d7f-283b-4e39-b21d-0d82b2729389" target="_blank">Video</a></p>
+Here you can see how it works: <a href="https://www.loom.com/share/be221b40f46e49adad6b4e8263bf8497?sid=25234d7f-283b-4e39-b21d-0d82b2729389" target="_blank">Video</a>
 
 ## How to run
 
