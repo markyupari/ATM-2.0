@@ -7,6 +7,8 @@ Ark Industries will be a reference for automation in the history of technology.
 ## ATM using React
 
 This page shows how to use React to create a virtual ATM. Also, you can learn how to use React-bootstrap to stylish some of the HTML elements.  
+There is a select to choose between make a deposit or a cash back. Once selected, an input box and a numeric keypad appear to enter the required amount.  
+Pressing submit executes the operation requested. If the amount requested for cash back is greater than the account balance, the submit button is disabled.  
 Here you can see how it works: <a href="https://www.loom.com/share/be221b40f46e49adad6b4e8263bf8497?sid=25234d7f-283b-4e39-b21d-0d82b2729389" target="_blank">Video</a>
 
 ## How to run
